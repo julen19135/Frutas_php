@@ -25,9 +25,9 @@ if (!isset($_SESSION["username"])){
 		  <a href="contacto.php">Contacto</a>
 		  <li><a href="tipos.php">Tipos de fruta</a>
 					<ul>
-						<li><a href="de_temporada.html">De temporada</a></li>
-						<li><a href="tropicales.html">Tropicales</a></li>
-						<li><a href="frutas_del_bosque.html">Frutas del bosque</a></li>
+						<li><a href="de_temporada.php">De temporada</a></li>
+						<li><a href="tropicales.php">Tropicales</a></li>
+						<li><a href="frutas_del_bosque.php">Frutas del bosque</a></li>
 						
 					</ul>
 			</li>
